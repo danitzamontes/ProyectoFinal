@@ -364,183 +364,86 @@
     </menu>
     <!--hasta aqui todo el menu funcional-->
     <text id="educontenido">
-    <es>¿CUÉNTAME QUE TE</es>
-    <en>TELL ME WHAT YOU</en>
+        <es>¿CUÉNTAME QUE TE</es>
+        <en>TELL ME WHAT YOU</en>
     </text>
     <text id="edu">
-	<es> PARECEN LOS</es>
-    <en> THEY LOOK LIKE THE</en>
+        <es> PARECEN LOS</es>
+        <en> THEY LOOK LIKE THE</en>
     </text>
     <text id="juanita1">
-	<es>PRODUCTOS MÁS </es>
-    <en>MORE PRODUCTS</en>
-</text>
-<text id="juanita2">
-	<es>PEDIDOS</es>
-    <en>ORDERS</en>
-</text>
-<text id="juanita3">
-	<es>POR LOS CLIENTES?</es>
-    <en>BY CUSTOMERS?</en>
-</text>
-<text id="juanita">
-	<es>Conoce los productos más populares de la cafetería:)</es>
-    <en>Here you can see the extra foods in the cafeteria:)</en>
-</text>
-<text id="contenido1">
-	<es>Poductos populares de la cafeteria DANNY</es>
-    <en>Popular DANNY Cafeteria Products</en>
-</text>
-<text id="contenido2">
-	<es>En la cafetería DANNY, nos enorgullece ofrecerte una selección de productos deliciosos que te encantarán. Te invitamos a probar nuestras opciones más populares, que se han ganado el corazón de nuestros clientes.</es>
-    <en>At DANNY Coffee Shop, we're proud to offer you a selection of delicious products that you'll love. We invite you to try our most popular options, which have won the hearts of our customers.</en></text>
-<text id="contenido3">
-	<es>CAFÉ ESPECIAL DE LA CASA</es>
-    <en>SPECIAL HOUSE COFFEE</en>
-</text>
-<text id="contenido4">
-    <es>En cafetería DANNY, nuestro Café Especial de la Casa es uno de los productos más populares, ¡y no es para menos! Preparado con granos seleccionados de la más alta calidad, tostados a la perfección para ofrecerte un sabor robusto y aromático que te hará empezar el día con energía y placer. Perfecto para acompañar tu desayuno o disfrutar en cualquier momento, nuestro café es la opción ideal para los amantes del buen café.</es>
-    <en>At DANNY cafeteria, our Special House Coffee is one of the most popular products, and no wonder! Prepared with selected beans of the highest quality, roasted to perfection to offer you a robust and aromatic flavor that will make you start the day with energy and pleasure. Perfect to accompany your breakfast or enjoy at any time, our coffee is the ideal choice for lovers of good coffee.</en></text>
-<text id="contenido5">
-	<es>TORTA DE CHOCOLATE DANNY</es>
-    <en>DANNY CHOCOLATE CAKE</en>
-</text>
-<text id="contenido6">
-	<es>En cafetería DANNY, nuestro pastel de chocolate es uno de los productos más populares, y no es para menos. Con su textura suave y húmeda, y un sabor intenso que combina la dulzura del chocolate con el toque perfecto de esponjosidad, ¡es el capricho ideal para cualquier momento del día!</es>
-    <en>At DANNY cafeteria, our chocolate cake is one of the most popular products, and no wonder. With its smooth and moist texture, and an intense flavor that combines the sweetness of chocolate with the perfect touch of fluffiness, it is the ideal treat for any time of the day!</en>
-</text>
-<text id="contenido7">
-	<es>TÉ DE JAMAICA</es>
-    <en>HIBISCUS TEA</en>
-</text>
-<text id="contenido8">
-	<es>En cafetería DANNY, el té de jamaica es uno de los favoritos de nuestros clientes. Con su sabor único, refrescante y ligeramente ácido, es la opción perfecta para acompañar cualquier comida o disfrutar en una tarde tranquila. Además, es conocido por sus propiedades antioxidantes, lo que lo convierte en una opción saludable y deliciosa.</es>
-    <en>At DANNY Cafeteria, hibiscus tea is one of our customers' favorites. With its unique, refreshing and slightly acidic flavor, it is the perfect choice to accompany any meal or enjoy on a quiet afternoon. In addition, it is known for its antioxidant properties, making it a healthy and delicious option.</en>
+        <es>COMENTARIOS </es>
+        <en>FEEDBACK</en>
     </text>
-<text id="contenido9">
-	<es>CAPPUCCINO</es>
-    <en>CAPPUCCINO</en>
-</text>
-<text id="contenido10">
-	<es>Nuestro cappuccino es uno de los productos más populares entre nuestros clientes, y no es para menos. Con una mezcla perfecta de espresso, leche vaporizada y una capa suave de espuma, cada sorbo ofrece una experiencia cremosa y llena de sabor. Ideal para disfrutar a cualquier hora del día, ya sea solo o acompañado de tu pastel favorito.</es>
-    <en>Our cappuccino is one of the most popular products among our customers, and no wonder. With a perfect blend of espresso, steamed milk, and a smooth layer of foam, every sip offers a creamy, flavor-packed experience. Ideal to enjoy at any time of the day, either alone or accompanied by your favorite cake.</en>
-</text>
-<text id="contenido11">
-	<es>DONAS</es>
-    <en>DOUGHNUTS</en>
-</text>
-<text id="contenido12">
-	<es>En cafetería DANNY, las donas son uno de nuestros productos más populares, y es fácil entender por qué. Con su textura esponjosa, cubierta de un glaseado irresistible y un toque dulce en cada bocado, son el acompañante perfecto para tu café o para disfrutar en cualquier momento del día.</es>
-    <en>At DANNY Cafeteria, donuts are one of our most popular products, and it's easy to see why. With their fluffy texture, covered in an irresistible glaze and a sweet touch in each bite, they are the perfect companion for your coffee or to enjoy at any time of the day.</en>
-</text>
-<text id="contenido13">
-	<es>TÉ DE ANÍS</es>
-    <en>ANANISE TEA</en>
-</text>
-<text id="contenido14">
-	<es>En cafetería DANNY, el té de jamaica es uno de los favoritos de nuestros clientes. Con su sabor único, refrescante y ligeramente ácido, es la opción perfecta para acompañar cualquier comida o disfrutar en una tarde tranquila. Además, es conocido por sus propiedades antioxidantes, lo que lo convierte en una opción saludable y deliciosa.</es>
-    <en>At DANNY Cafeteria, hibiscus tea is one of our customers' favorites. With its unique, refreshing and slightly acidic flavor, it is the perfect choice to accompany any meal or enjoy on a quiet afternoon. In addition, it is known for its antioxidant properties, making it a healthy and delicious option.</en>
-</text>
-<text id="contenido15">
-	<es>gfg</es>
-    <en>fgg</en>
-</text>
-<text id="contenido16">
-	<es>Seleccionar</es>
-    <en>Select</en>
-</text>
-<text id="contenido17">
-	<es>TORTA</es>
-    <en>CAKE</en>
-</text>
-<text id="contenido18">
-	<es>Seleccionar</es>
-    <en>Select</en>
-</text>
-<text id="contenido19">
-	<es>CAFÉ MOCHA</es>
-    <en>MOCHA COFFEE</en>
-</text>
-<text id="contenido20">
-	<es>Seleccionar</es>
-    <en>Select</en>
-</text>
-<text id="contenido21">
-	<es>CAFÉ TURCO</es>
-    <en>TURKISH COFFEE</en>
-</text>
-<text id="contenido22">
-	<es>Seleccionar</es>
-    <en>Select</en>
-</text>
-<text id="contenido23">
-	<es>INFUSIONES DE HIERBAS</es>
-    <en>HERBAL INFUSIONS</en>
-</text>
-<text id="contenido24">
-	<es>TÉ DE CEDRON</es>
-    <en>LEMON VERBENA TEA</en>
-</text>
-<text id="contenido25">
-	<es>Seleccionar</es>
-    <en>Select</en>
-</text>
-<text id="contenido26">
-	<es>TÉ DE JENGIBRE</es>
-    <en>GINGER TEA</en>
-</text>
-<text id="contenido27">
-	<es>Seleccionar</es>
-    <en>Select</en>
-</text>
-<text id="contenido28">
-	<es>TÉ DE LAVANDA</es>
-    <en>LAVENDER TEA</en>
-</text>
-<text id="contenido29">
-	<es>Seleccionar</es>
-    <en>Select</en>
-</text>
-<text id="contenido30">
-	<es>TÉ DE MANZANILLA</es>
-    <en>CHAMOMILE TEA</en>
-</text>
-<text id="contenido31">
-	<es>Seleccionar</es>
-    <en>Select</en>
-</text>
-<text id="contenido32">
-	<es>TÉ DE MENTA</es>
-    <en>MINT TEA</en>
-</text>
-<text id="contenido33">
-	<es>Seleccionar</es>
-    <en>Select</en>
-</text>
-<text id="contenido34">
-	<es>TÉ DE JAMAICA</es>
-    <en>HIBISCUS TEA</en>
-</text>
-<text id="contenido35">
-	<es>Seleccionar</es>
-    <en>Select</en>
-</text>
-<text id="contenido36">
-	<es>TÉ DE TILO</es>
-    <en>LINDEN TEA</en>
-</text>
-<text id="contenido37">
-	<es>Seleccionar</es>
-    <en>Select</en>
-</text>
-<text id="contenido38">
-	<es>TÉ DE ANÍS</es>
-    <en>ANANISE TEA</en>
-</text>
-<text id="contenido39">
-	<es>Seleccionar</es>
-    <en>Select</en>
-</text>
+    <text id="juanita2">
+        <es>DE LOS</es>
+        <en>OF THE</en>
+    </text>
+    <text id="juanita3">
+        <es>CLIENTES?</es>
+        <en>CUSTOMERS?</en>
+    </text>
+    <text id="juanita">
+        <es>Dejanos un comentario:</es>
+        <en>Leave us a comment:</en>
+    </text>
+    <text id="contenido1">
+        <es>¡Queremos saber tu opinión!</es>
+        <en>We want to hear from you!</en>
+    </text>
+    <text id="contenido2">
+        <es>Déjanos tus comentarios y sugerencias para mejorar nuestros servicios.</es>
+        <en>Leave us your comments and suggestions to improve our services.</en>
+    </text>
+    <text id="contenido3">
+        <es>Formulario de Feedback</es>
+        <en>Feedback Form</en>
+    </text>
+    <text id="contenido4">
+        <es>Nombre</es>
+        <en>Name</en>
+    </text>
+    <text id="contenido5">
+        <es>Correo Electrónico</es>
+        <en>Email</en>
+    </text>
+    <text id="contenido6">
+        <es>Comentarios</es>
+        <en>Feedback</en>
+    </text>
+    <text id="contenido7">
+        <es>Calificación</es>
+        <en>Qualification</en>
+    </text>
+    <text id="contenido8">
+        <es>5 Estrellas</es>
+        <en>5 Stars</en>
+        </text>
+    <text id="contenido9">
+        <es>4 Estrellas</es>
+        <en>4 Stars</en>
+    </text>
+    <text id="contenido10">
+        <es>3 Estrellas</es>
+        <en>3 Stars</en>
+    </text>
+    <text id="contenido11">
+        <es>2 Estrellas</es>
+        <en>2 Stars</en>
+    </text>
+    <text id="contenido12">
+        <es>1 Estrellas</es>
+        <en>1 Stars</en>
+    </text>
+    <text id="contenido13">
+        <es>Guardar Comentario</es>
+        <en>Save Comment</en>
+    </text>
+    <text id="contenido14">
+        <es>Comentarios Recientes</es>
+        <en>Recent Comments</en>
+    </text>
+
 </translations>
 
 
